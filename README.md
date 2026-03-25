@@ -15,8 +15,7 @@ This repository contains the official implementation of **SCCoT**, a unified fra
 
 ### Prerequisites
 
-Ensure you have Python 3.9+ installed. Install the required dependencies:
+- Ensure you have **Python 3.9+** installed.
+- Install the required dependencies from the `requirements.txt` file:
 
-```bash
-pip install torch transformers datasets shap captum scikit-learn pandas numpy matplotlib seaborn nltk spacy openai python-Levenshtein
-python -m spacy download en_core_web_sm
+
